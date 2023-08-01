@@ -1,0 +1,303 @@
+# depslib dependency file v1.0
+1681943590 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\date.h
+	<ostream>
+	<istream>
+
+1681943723 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\chercheur.cpp
+	"Chercheur.h"
+	<iostream>
+	<iomanip>
+
+1681943828 c:\users\ghayt\onedrive\desktop\c++\projet\include\chercheur.h
+	<string>
+	<ostream>
+	<istream>
+	"Date.h"
+
+1681943723 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\projet.cpp
+	"Projet.h"
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<exception>
+
+1681943800 c:\users\ghayt\onedrive\desktop\c++\projet\include\projet.h
+	<string>
+	<Date.h>
+	<ostream>
+	<istream>
+
+1681943723 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\unitederecherche.cpp
+	"UniteDeRecherche.h"
+	<vector>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\unitederecherche.h
+	<string>
+	<vector>
+	<Projet.h>
+	<Chercheur.h>
+	<ostream>
+	<istream>
+
+1681943991 source:c:\users\ghayt\onedrive\desktop\c++\projet\main.cpp
+	<iostream>
+	<UniteDeRecherche.h>
+	<Projet.h>
+	<Date.h>
+	<Pharmacien_Chercheur.h>
+	<Analyse_Formule.h>
+	<Exception.h>
+	<Util.h>
+	<ProjetBiologique.h>
+	<Projet_Pharmaceutique.h>
+	<ResponsableProjet.h>
+	<fstream>
+
+1680033786 source:c:\users\jihen\desktop\projet-cplusplus\main.cpp
+	<iostream>
+	<UniteDeRecherche.h>
+	<Projet.h>
+	<Date.h>
+
+1680033786 c:\users\jihen\desktop\projet-cplusplus\include\unitederecherche.h
+	<string>
+	<vector>
+	<Projet.h>
+	<Chercheur.h>
+	<ostream>
+	<istream>
+
+1680033786 c:\users\jihen\desktop\projet-cplusplus\include\projet.h
+	<string>
+	<Date.h>
+
+1680033786 c:\users\jihen\desktop\projet-cplusplus\include\date.h
+
+1680033786 c:\users\jihen\desktop\projet-cplusplus\include\chercheur.h
+	<string>
+
+1680033786 source:c:\users\jihen\desktop\projet-cplusplus\src\chercheur.cpp
+	"Chercheur.h"
+
+1680033786 source:c:\users\jihen\desktop\projet-cplusplus\src\date.cpp
+	"Date.h"
+
+1680033786 source:c:\users\jihen\desktop\projet-cplusplus\src\projet.cpp
+	"Projet.h"
+	"Date.h"
+
+1680033786 source:c:\users\jihen\desktop\projet-cplusplus\src\unitederecherche.cpp
+	"UniteDeRecherche.h"
+	<vector>
+	<iostream>
+
+1680363626 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\main.cpp
+	<iostream>
+	<UniteDeRecherche.h>
+	<Projet.h>
+	<Date.h>
+
+1680380533 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\unitederecherche.h
+	<string>
+	<vector>
+	<Projet.h>
+	<Chercheur.h>
+	<ostream>
+	<istream>
+
+1680366349 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\projet.h
+	<string>
+	<Date.h>
+	<ostream>
+	<istream>
+
+1680119686 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\date.h
+	<ostream>
+	<istream>
+
+1680363545 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\chercheur.h
+	<string>
+	<ostream>
+	<istream>
+
+1680368840 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\chercheur.cpp
+	"Chercheur.h"
+	<iostream>
+
+1680119686 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1680209907 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\projet.cpp
+	"Projet.h"
+	"Date.h"
+	<iostream>
+
+1680208868 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\unitederecherche.cpp
+	"UniteDeRecherche.h"
+	<vector>
+	<iostream>
+	<iomanip>
+
+1680382625 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\pharmacien_chercheur.cpp
+	"Pharmacien_Chercheur.h"
+	<iostream>
+
+1680382652 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\pharmacien_chercheur.h
+	<list>
+	<Chercheur.h>
+	"Rapport_Formule.h"
+	"Analyse_Formule.h"
+	<string>
+	<ostream>
+	<istream>
+
+1680382955 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\rapport_formule.cpp
+	"Rapport_Formule.h"
+	<iostream>
+
+1680381950 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\rapport_formule.h
+	<Date.h>
+
+1680381842 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\analyse_formule.cpp
+	"Analyse_Formule.h"
+	<iostream>
+
+1680381810 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\analyse_formule.h
+	<string>
+	<Date.h>
+
+1680380135 source:c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\src\projet_pharmaceutique.cpp
+	"Projet_Pharmaceutique.h"
+
+1680381018 c:\users\jihen\desktop\eng jihen\poo\projet-cplusplus\include\projet_pharmaceutique.h
+	<Date.h>
+	<Projet.h>
+	<string>
+	<ostream>
+	<istream>
+
+1681943590 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\analyse_formule.cpp
+	"Analyse_Formule.h"
+	<iostream>
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\analyse_formule.h
+	<string>
+	<Date.h>
+
+1681943723 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\article.cpp
+	"Article.h"
+	<iostream>
+	<iomanip>
+
+1681943731 c:\users\ghayt\onedrive\desktop\c++\projet\include\article.h
+	<string>
+
+1681944018 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\biologiste.cpp
+	"Biologiste.h"
+	"Chercheur.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1681944042 c:\users\ghayt\onedrive\desktop\c++\projet\include\biologiste.h
+	<Chercheur.h>
+	<Article.h>
+	<string>
+	<map>
+	"Date.h"
+
+1681943897 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\pharmacien_chercheur.cpp
+	"Pharmacien_Chercheur.h"
+	<iostream>
+	"Date.h"
+
+1681943917 c:\users\ghayt\onedrive\desktop\c++\projet\include\pharmacien_chercheur.h
+	<list>
+	<Chercheur.h>
+	"Rapport_Formule.h"
+	"Analyse_Formule.h"
+	<string>
+	<ostream>
+	<istream>
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\rapport_formule.h
+	<Date.h>
+
+1681943941 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\projet_pharmaceutique.cpp
+	"Projet_Pharmaceutique.h"
+	<iostream>
+	<set>
+
+1681943957 c:\users\ghayt\onedrive\desktop\c++\projet\include\projet_pharmaceutique.h
+	<Date.h>
+	<Projet.h>
+	<string>
+	<ostream>
+	<istream>
+	<Pharmacien_Chercheur.h>
+	<set>
+
+1681943966 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\projetbiologique.cpp
+	"ProjetBiologique.h"
+	"Projet.h"
+	"Date.h"
+	"Biologiste.h"
+	<string>
+	<ostream>
+	<istream>
+	<iostream>
+	<vector>
+	<Exception.h>
+
+1681943974 c:\users\ghayt\onedrive\desktop\c++\projet\include\projetbiologique.h
+	<Projet.h>
+	<string>
+	<ostream>
+	<istream>
+	<vector>
+	"Date.h"
+	"Biologiste.h"
+
+1681943590 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\rapport_formule.cpp
+	"Rapport_Formule.h"
+	<iostream>
+
+1681943723 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\util.cpp
+	"Util.h"
+	<iostream>
+	<windows.h>
+
+1681943731 c:\users\ghayt\onedrive\desktop\c++\projet\include\util.h
+
+1680387131 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\classe generique.cpp
+	"Classe Generique.h"
+
+1680387131 c:\users\ghayt\onedrive\desktop\c++\projet\include\classe generique.h
+
+1680387131 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\formule.cpp
+	"Formule.h"
+
+1680387131 c:\users\ghayt\onedrive\desktop\c++\projet\include\formule.h
+	<Date.h>
+
+1681943590 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\exception.cpp
+	"Exception.h"
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\exception.h
+	<stdexcept>
+	<string>
+
+1681943590 c:\users\ghayt\onedrive\desktop\c++\projet\include\responsableprojet.h
+	<vector>
+
+1681943590 source:c:\users\ghayt\onedrive\desktop\c++\projet\src\responsableprojet.cpp
+

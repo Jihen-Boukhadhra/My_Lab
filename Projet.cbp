@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Analyse_Formule.h" />
+		<Unit filename="include/Article.h" />
+		<Unit filename="include/Biologiste.h" />
+		<Unit filename="include/Chercheur.h" />
+		<Unit filename="include/Date.h" />
+		<Unit filename="include/Exception.h" />
+		<Unit filename="include/Pharmacien_Chercheur.h" />
+		<Unit filename="include/Projet.h" />
+		<Unit filename="include/ProjetBiologique.h" />
+		<Unit filename="include/Projet_Pharmaceutique.h" />
+		<Unit filename="include/Rapport_Formule.h" />
+		<Unit filename="include/ResponsableProjet.h" />
+		<Unit filename="include/UniteDeRecherche.h" />
+		<Unit filename="include/Util.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Analyse_Formule.cpp" />
+		<Unit filename="src/Article.cpp" />
+		<Unit filename="src/Biologiste.cpp" />
+		<Unit filename="src/Chercheur.cpp" />
+		<Unit filename="src/Date.cpp" />
+		<Unit filename="src/Exception.cpp" />
+		<Unit filename="src/Pharmacien_Chercheur.cpp" />
+		<Unit filename="src/Projet.cpp" />
+		<Unit filename="src/ProjetBiologique.cpp" />
+		<Unit filename="src/Projet_Pharmaceutique.cpp" />
+		<Unit filename="src/Rapport_Formule.cpp" />
+		<Unit filename="src/ResponsableProjet.cpp" />
+		<Unit filename="src/UniteDeRecherche.cpp" />
+		<Unit filename="src/Util.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
